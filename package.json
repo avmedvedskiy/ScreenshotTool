@@ -1,7 +1,7 @@
 {
   "name": "com.avmedvedskiy.screenshottool",
   "displayName": "Editor.ScreenshotTool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2018.4",
   "author": "avmedvedskiy",
   "description": "Screen Shot Tool",
